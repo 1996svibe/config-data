@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="033ee1b7-6be0-4b39-9ed0-540282b23c45" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/token.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PSWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../PSWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PlayDataStory" beforeDir="false" afterPath="$PROJECT_DIR$/../PlayDataStory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/client/request/OwnerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/client/request/OwnerRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/TokenInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/config/TokenInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/request/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/request/SignupRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/request/SignupRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/response/LoginResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/domain/response/LoginResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../auth/src/main/java/com/example/auth/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brunchstory" beforeDir="false" afterPath="$PROJECT_DIR$/../brunchstory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/controller/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/controller/OwnerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/controller/OwnerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/entity/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/entity/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/entity/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/entity/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/entity/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/entity/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/request/OwnerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/request/OwnerRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/response/MenuResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/response/OwnerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/response/OwnerResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/domain/response/StoreResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/repository/OwnerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/repository/OwnerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/repository/StoreRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/service/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/service/OwnerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceo/src/main/java/com/example/ceo/service/OwnerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/token.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/config/JwtService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/config/JwtService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/config/TokenInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/config/TokenInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/dto/CustomDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/dto/CustomDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/filter/CustomGlobalFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/filter/CustomGlobalFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/filter/TokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/example/gateway/filter/TokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa2-main/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa2-main/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa2-main/jpa2-main" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa2-main/jpa2-main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../menu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../menu/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../store/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/components/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test5/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todos" beforeDir="false" afterPath="$PROJECT_DIR$/../todos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/User/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/User/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/User/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/User/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/User/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/User/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/config/FireBaseInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/config/FireBaseInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/config/FirebaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/config/FirebaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/CommentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/CommentDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/ReviewDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/ReviewDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/StoreDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/StoreDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Favorite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Favorite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Recommend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Recommend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/CommentRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/CommentRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/CommentUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/CommentUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/FavoriteRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/FavoriteRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/RecommendRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/RecommendRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/ReviewRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/ReviewRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/ReviewUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/request/ReviewUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/CommentResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/CommentResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/FavoriteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/FavoriteResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/RecommendResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/RecommendResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/ReviewResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/ReviewResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/StoreResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/StoreResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/StoryResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/domain/response/StoryResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/jwt/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/jwt/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/jwt/JwtAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/jwt/JwtAuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/Oauth2UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/Oauth2UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/Oauth2UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/Oauth2UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/PrincipalDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/PrincipalDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/provider/KakaoUserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user/src/main/java/com/example/user/security/oauth/provider/KakaoUserInfo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Uj8K5scK4B35ENE91EpYYUGt62" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/New/PlayData_BootCamp/config-data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/새 스크래치 파일": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="033ee1b7-6be0-4b39-9ed0-540282b23c45" name="변경" comment="" />
+      <created>1693441561902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693441561902</updated>
+      <workItem from="1693441563967" duration="335000" />
+      <workItem from="1693441963996" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
